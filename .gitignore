@@ -1,5 +1,3 @@
-/*/venv/
-/*/.idea/
-/.idea
-/.DS_Store
-**/.DS_Store
+venv/
+.idea/
+.DS_Store
